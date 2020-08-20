@@ -15,6 +15,7 @@
     "typescript": "^3.9.7"
   },
   "scripts": {
+    "build": "yarn workspaces run build",
     "test": "jest"
   }
 }
